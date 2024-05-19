@@ -1,6 +1,6 @@
 ### Hi there! This is something about me 👋
 
-- 🔭 I’m currently working on ... Mercado Libre
+- 🔭 I’m currently working on ... MODO
 - 🌱 I’m currently learning ... on how can be a better professional!
 - 👯 I’m looking to collaborate on ... Golang and Java projects
 - 💬 Ask me about ... something that I can help :P
